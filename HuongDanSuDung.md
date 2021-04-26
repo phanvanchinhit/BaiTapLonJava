@@ -9,5 +9,5 @@
 + Bước 5: Cấu hình lại file bkapt.com.helper/connect.java con=DriverManager.getConnection(url,"sa","mật khẩu của các bạn"); 
 > Hoàn thành cấu hình, có thể chạy được
 > Lưu ý: Đang còn 1 số lỗi khá nghiêm trọng, Tuấn Anh, Ngọc Ánh cứ fixx bug mạnh lên nhá, có vẻ hơi căng các bạn ạ
-***Cảm ơn các bạn đã đọc, mong các bạn fix bug sớm nhất có thể***
-***THANK YOU VERY MUCH***
++ ***Cảm ơn các bạn đã đọc, mong các bạn fix bug sớm nhất có thể***
++ ***THANK YOU VERY MUCH***
